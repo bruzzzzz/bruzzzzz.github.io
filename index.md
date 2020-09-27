@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## itsa me, Giovanni Domenic Barilaro, bruz!
 
-You can use the [editor on GitHub](https://github.com/bruzzzzz/bruzzzzz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Did you-a know-a that I love to log down koala habitats for my donors?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
